@@ -6,7 +6,7 @@ public class Class01 {
             foo();
             foo2();
 
-        } catch (Exception e) {
+        } catch (Exception | Error e) {
             e.printStackTrace();
         }
     }
