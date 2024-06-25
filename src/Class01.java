@@ -1,21 +1,6 @@
 public class Class01 {
     public static void main(String[] args) {
         // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
-        // 占位
 
         try {
             System.out.println("Hello world");
