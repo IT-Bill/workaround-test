@@ -1,10 +1,14 @@
 public class Class01 {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        try {
+            System.out.println("Hello world");
 
-        foo3();
-        foo();
-        foo2();
+            foo3();
+            foo();
+            foo2();
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
 
 
     }
