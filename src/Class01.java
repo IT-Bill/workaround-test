@@ -6,6 +6,7 @@ public class Class01 {
             System.out.println("Hello world");
 
             foo();
+            foo2();
 
         } catch (Exception e) {
             e.printStackTrace();
