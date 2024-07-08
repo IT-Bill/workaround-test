@@ -1,16 +1,11 @@
 public class Class01 {
     public static void main(String[] args) {
-        // 占位
+        System.out.println("Hello world");
 
-        try {
-            System.out.println("Hello world");
+        foo();
+        foo2();
 
-            foo();
-            foo2();
 
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
     }
 
     public static void foo() {
