@@ -4,7 +4,6 @@ public class Class01 {
             System.out.println("Hello world");
 
             foo3();
-            foo();
             foo2();
         } catch (Exception e) {
             throw new RuntimeException(e);
